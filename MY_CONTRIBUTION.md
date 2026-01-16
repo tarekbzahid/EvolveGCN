@@ -13,6 +13,15 @@ This document outlines my contribution to understanding, implementing, and prese
 
 **Important Note:** The original IBM Research repository was archived on July 22, 2024, and is now read-only. This fork serves as a preserved instance of the codebase and documents my educational contributions to understanding and implementing this research.
 
+## Summary of Contributions
+
+1. **Repository Fork & Preservation** - Forked and maintained working implementation after original was archived
+2. **Successful Implementation** - Set up environment, ran experiments on 7 datasets, validated results
+3. **Code Analysis** - Deep understanding of architecture, data pipeline, and training infrastructure
+4. **MPI Exploration** - Identified parallelization opportunities and analyzed distributed computing strategies
+5. **Class Presentation** - Educated peers on dynamic GNNs, temporal graph processing, and scalability
+6. **Documentation** - Created comprehensive contribution document for educational reference
+
 ## Project Background
 
 ### Course Context
@@ -64,6 +73,14 @@ EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs (AAAI 2020) 
 - Dataset download and preprocessing pipeline
 - Memory optimization for large-scale graphs
 - GPU resource management
+
+#### Implementation Achievements
+- **Successfully executed** all experiment configurations included in the repository
+- **Validated model performance** across multiple temporal graph datasets
+- **Documented experimental setup** for reproducibility
+- **Analyzed results** comparing EvolveGCN-H and EvolveGCN-O variants
+- **Benchmarked training times** on local GPU hardware
+- **Troubleshot errors** in data preprocessing and model training pipelines
 
 ### 3. Code Analysis and Understanding
 
@@ -152,6 +169,20 @@ Documented challenges and opportunities for MPI integration:
 - Sparked discussions on distributed graph processing
 - Shared practical implementation insights
 - Contributed to collective learning on MPI applications in deep learning
+
+### 6. Repository Preservation
+
+#### Significance of This Fork
+As the original IBM Research repository was archived on July 22, 2024:
+- **Maintains Access:** This fork preserves a working implementation for educational purposes
+- **Documentation:** Adds comprehensive documentation of educational use and findings
+- **Reference Material:** Serves as a case study for implementing research papers
+- **Community Value:** Provides an accessible version for students and researchers interested in dynamic GNNs
+
+#### Added Documentation
+- `MY_CONTRIBUTION.md`: Comprehensive documentation of educational contribution
+- Preserved all original code, datasets, and experiment configurations
+- Maintained compatibility information for future users
 
 ---
 
