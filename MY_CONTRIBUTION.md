@@ -11,6 +11,8 @@
 
 This document outlines my contribution to understanding, implementing, and presenting the EvolveGCN framework as part of a Graph Algorithms course project. My work focused on practical implementation, parallel computing exploration, and knowledge dissemination through class presentation.
 
+**Important Note:** The original IBM Research repository was archived on July 22, 2024, and is now read-only. This fork serves as a preserved instance of the codebase and documents my educational contributions to understanding and implementing this research.
+
 ## Project Background
 
 ### Course Context
@@ -36,6 +38,7 @@ EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs (AAAI 2020) 
 - **Forked** the original IBM Research EvolveGCN repository to personal account
 - **Purpose:** Create independent workspace for experimentation and modifications
 - **Benefit:** Ability to track personal changes while maintaining reference to original work
+- **Preservation:** The original repository was archived by IBM Research on July 22, 2024, making this fork valuable for maintaining access to a working implementation of the research
 
 ### 2. Local Implementation
 
@@ -249,10 +252,10 @@ AAAI 2020.
 ```
 
 **Original Repository:**
-IBM Research - https://github.com/IBM/EvolveGCN
+IBM Research - https://github.com/IBM/EvolveGCN (Archived July 22, 2024 - Read-only)
 
 **My Fork:**
-https://github.com/tarekbzahid/EvolveGCN
+https://github.com/tarekbzahid/EvolveGCN (Active fork preserving the implementation)
 
 ---
 
